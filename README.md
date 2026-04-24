@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction
+# Car Price Prediction
 
 ## Problem
 Buyers and sellers struggle to find 
